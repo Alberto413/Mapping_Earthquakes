@@ -1,2 +1,0 @@
-// API key 
-API_KEY = "pk.eyJ1IjoiYWxiZXJ0bzQxMyIsImEiOiJjbDB5MjYzNW8wN25lM21wYWV2ZXNxNzF5In0.LxTBIUcizheCkElTPpMdlQ";
